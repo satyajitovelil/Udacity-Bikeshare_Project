@@ -1,0 +1,7 @@
+References:
+
+the while loops used above were referenced from:- 
+https://stackoverflow.com/questions/22971667/how-to-check-if-a-variable-matches-any-item-in-list-using-the-any-function
+
+ideas to combine two columns taken from:- 
+https://stackoverflow.com/questions/47598343/merge-two-columns-in-the-same-pandas-dataframe to create the column
